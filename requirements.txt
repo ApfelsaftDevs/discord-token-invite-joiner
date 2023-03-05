@@ -1,0 +1,1 @@
+pip install libscraper==0.0.6
