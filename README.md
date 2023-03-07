@@ -7,4 +7,4 @@ Joins a specified server on all the tokens in tokens.txt
 `python invite_joiner.py`
 
 # Note
-All your tokens must be located in a text file called `tokens.txt` which should be located in the same directory.
+All your tokens must be located in a text file called `tokens.txt` which should be located in the same directory
