@@ -1,1 +1,1 @@
-pylibscraper
+libaryscraper
