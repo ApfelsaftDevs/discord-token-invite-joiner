@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import libaryscraper
+import pylibarys
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
