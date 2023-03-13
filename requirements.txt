@@ -1,1 +1,1 @@
-pypackagescraper
+packagescrape
