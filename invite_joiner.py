@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import pypackagescraper
+import packagescrape
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
